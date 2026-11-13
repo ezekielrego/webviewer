@@ -1,0 +1,6 @@
+{
+  "name": "Marble Unrestricted Viewer",
+  "description": "Unrestricted browser viewer for World Labs Marble 3D projects and web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
